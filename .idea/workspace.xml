@@ -16,7 +16,7 @@
     <file path="$PROJECT_DIR$/../spree_articles/spree_articles.gemspec" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382030859844" ignored="false" />
     <file path="/spree_articles.gemspec" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382016569210" ignored="false" />
     <file path="$PROJECT_DIR$/../spree_articles/Gemfile" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382016599236" ignored="false" />
-    <file path="/Dummy.txt" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382359193093" ignored="false" />
+    <file path="/Dummy.txt" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304313212" ignored="false" />
     <file path="$PROJECT_DIR$/../spree_articles/db/migrate/20131017133159_create_articles.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382017638416" ignored="false" />
     <file path="/20131017133159_create_articles.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382017140021" ignored="false" />
     <file path="$PROJECT_DIR$/../spree_articles/db/migrate/20131017133509_create_article.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382016959904" ignored="false" />
@@ -94,7 +94,7 @@
     <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/admin/categories/show.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384543428532" ignored="false" />
     <file path="$PROJECT_DIR$/../../my_store/app/assets/javascripts/store/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382564402925" ignored="false" />
     <file path="$PROJECT_DIR$/../../my_store/config/application.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382560937035" ignored="false" />
-    <file path="/application.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384866655534" ignored="false" />
+    <file path="/application.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386301988523" ignored="false" />
     <file path="$PROJECT_DIR$/../../my_store/config/initializers/spree.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382559807112" ignored="false" />
     <file path="/spree.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386261763425" ignored="false" />
     <file path="$PROJECT_DIR$/../../my_store/config/locales/pl.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382565123309" ignored="false" />
@@ -108,7 +108,7 @@
     <file path="/pages_in_header.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382695508909" ignored="false" />
     <file path="$PROJECT_DIR$/../../my_store/app/views/spree/shared/_main_nav_bar_2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382696195040" ignored="false" />
     <file path="$PROJECT_DIR$/../../my_store/app/assets/stylesheets/store/screen.css.scss" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384264926500" ignored="false" />
-    <file path="/screen.css.scss" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386092750977" ignored="false" />
+    <file path="/screen.css.scss" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303576115" ignored="false" />
     <file path="$PROJECT_DIR$/../../example/Gemfile" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382716258133" ignored="false" />
     <file path="$PROJECT_DIR$/../../my_store/app/views/spree/products/show.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1383264429776" ignored="false" />
     <file path="$PROJECT_DIR$/../../my_store/app/views/spree/products/_cart_form.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1383264574535" ignored="false" />
@@ -193,7 +193,7 @@
     <file path="$PROJECT_DIR$/../../my/app/views/spree/shared/_products2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385478130823" ignored="false" />
     <file path="/_products2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385478130251" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/app/assets/javascripts/store/slider2.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386001248760" ignored="false" />
-    <file path="/slider2.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385734085215" ignored="false" />
+    <file path="/slider2.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304429443" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/app/views/spree/shared/_slider4.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385556047495" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/vendor/assets/javascripts/jquery.ui.rcarousel.min.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385554790470" ignored="false" />
     <file path="/jquery.ui.rcarousel.min.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385554757189" ignored="false" />
@@ -208,12 +208,12 @@
     <file path="/product.js.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385582896716" ignored="false" />
     <file path="$PROJECT_DIR$/../spree/frontend/app/assets/javascripts/store/product.js.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385583205082" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/frontend/app/assets/javascripts/store/product.js.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385582913568" ignored="false" />
-    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/frontend/spree_frontend.gemspec" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385583105731" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/frontend/spree_frontend.gemspec" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/app/views/spree/products/_cart_form.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385583518734" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/Gemfile.lock" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385734992371" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/app/assets/javascripts/application.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385656179772" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/app/assets/stylesheets/application.css" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385656220017" ignored="false" />
-    <file path="/application.css" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385656220017" ignored="false" />
+    <file path="/application.css" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386302578331" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/config/initializers/ckeditor.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385671014974" ignored="false" />
     <file path="/ckeditor.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385671014974" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/app/views/spree/layouts/admin.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385671845449" ignored="false" />
@@ -241,14 +241,125 @@
     <file path="$PROJECT_DIR$/../../Karpal/config/database.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386171451628" ignored="false" />
     <file path="$PROJECT_DIR$/../../Karpal/db/schema.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386300245976" ignored="false" />
     <file path="$PROJECT_DIR$/../../Karpal/Gemfile.lock" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386261898769" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Karpal/config/application.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386260229060" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/config/application.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386301989775" ignored="false" />
     <file path="$PROJECT_DIR$/../../Karpal/db/seeds.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386260229060" ignored="false" />
     <file path="$PROJECT_DIR$/../../Karpal/config/initializers/spree.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386261763425" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Karpal/config/environments/production.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386262940620" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/config/environments/production.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303845829" ignored="false" />
     <file path="$PROJECT_DIR$/../../Karpal/app/assets/javascripts/store/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386263050707" ignored="false" />
     <file path="$PROJECT_DIR$/../../Karpal/app/assets/javascripts/admin/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386300626628" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Karpal/public/assets/application.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386301086959" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Karpal/public/assets/admin/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386301086959" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/application.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304656170" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/admin/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386301416306" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/app/views/spree/home/index.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386301654727" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/app/assets/stylesheets/application.css" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386302589623" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/app/assets/stylesheets/store/screen.css.scss" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303587114" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/config/environments/production.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/backend/spree_backend.gemspec" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/config/environments/development.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree_auth_devise/app/controllers/spree/user_registrations_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/api/spec/controllers/spree/api/taxonomies_controller_spec.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/core/config/locales/en.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree_auth_devise (copy)/app/controllers/spree/user_passwords_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/api/spec/shared_examples/protect_product_actions.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree_auth_devise/app/controllers/spree/user_passwords_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/core/spec/models/spree/credit_card_spec.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/core/vendor/assets/javascripts/jquery-migrate-1.0.0.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree_auth_devise/app/controllers/spree/user_sessions_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/cmd/spree_cmd.gemspec" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/core/spec/models/spree/payment_spec.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/backend/app/controllers/spree/admin/orders_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/core/app/helpers/spree/store_helper.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/core/app/models/spree/product.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/config/initializers/session_store.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/core/spree_core.gemspec" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/cmd/lib/spree_cmd/installer.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree_auth_devise (copy)/spree_auth_devise.gemspec" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/frontend/spec/controllers/spree/orders_controller_ability_spec.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree_auth_devise/spree_auth_devise.gemspec" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/core/lib/spree/testing_support/preferences.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/backend/vendor/assets/javascripts/trunk8.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/api/spec/controllers/spree/api/taxons_controller_spec.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/frontend/lib/spree/frontend/engine.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/core/lib/generators/spree/install/install_generator.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree_auth_devise (copy)/app/controllers/spree/user_sessions_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/backend/vendor/assets/javascripts/jquery.jstree/jquery.jstree.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree_articles/lib/generators/spree_articles/install/install_generator.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree_auth_devise (copy)/app/controllers/spree/user_registrations_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/manifest.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/tinymce/tiny_mce_jquery_src.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/tinymce/tiny_mce_src.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/tinymce/plugins/fullpage/js/fullpage.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/samples/xhtmlstyle-81ed2f9695aee448ebc6fd8a58c4ea81.html" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/samples/xhtmlstyle.html" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/pt-d80d274edf34506ec34ec72daa5b0186.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/nb.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/en-ca.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/sq-89a132f641dcb1af322a51e63079ec54.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/ar-efdc9a45fde750dfd680532980fd0498.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/en-gb.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/en-ca-2f5506ff4e75d686723700cf3a7d7440.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/ms.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/sr-ecadff8c509f94ab671f2868e9a817bb.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/mn.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/sr-latn.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/sr-latn-dd5bdcc602866a2c055d8ae601d9096c.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/mn-8b22ce3095583b8156d2a18d8d662070.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/ro-9416626024ff7eba1c3ae2f21e3edd08.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/eu-420df88db6f0fc80c7fc59b50d9ae511.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/pt.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/id-6bcfac6f3be4b09ed71c18244258e70c.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/km.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/id.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/is-fdfbdaddf3769086d60a28adaee817ad.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/tinymce/plugins/contextmenu/editor_plugin_src.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/bn.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/tinymce/plugins/autosave/editor_plugin_src.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/eu.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/sr.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/sq.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/bs.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/sl.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/ms-7725b921322d3d156da58845c4a97a75.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/bg.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/en.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/is.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/th.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/tinymce/plugins/inlinepopups/editor_plugin_src.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/si.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/el.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/hi-c2bd7cf3337eb91467e70fbcf0a0e288.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/en-au.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/km-8fa4c98fe87b428d3110cffa90382910.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/zh.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/bg-d1cfec9dfed77b8c28c55b7e1c048bb8.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/en-5865a4815bb7d513b70f233a899c8b43.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/bs-d67c80b3292efd5166b84bc20044c9bd.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/hi.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/da-f2426c2d978a2f9fc820b93e3dd077f3.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/th-b93cab9983337f509ada70d9d567a913.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/bn-3871b0e6336c12738d889bed1dfc4ed7.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/ar.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/ko.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/sl-2ff648e69fc2473bfe14bd14dc8737d2.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/fr-ca-cc103d4667b0d1710c1ee89b4e0104b1.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/mk-d7b3a8664aa9b9f2e71a01cf1501722c.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/no-677953af82bb499d5bc53cea2ee55f47.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/gl.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/zh-7df8b00800164c846b734bf245aafe0e.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/el-0dd2132a4717802355402dc1fdd2d61f.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/en-gb-e1cb79d25f4fd2ddd3632f8388a8ae33.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/ro.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/da.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/en-au-66a35969aa37e92fa1665f1900d17972.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/ko-7c30df412b008862b14745255b20417e.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/no.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/tinymce/plugins/advlist/editor_plugin_src.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/nb-9b7c221bda2f35a5e2bcd97ce0b4a432.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/si-4321fb9287b7c24d795e7534278d55ba.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/mk.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/config/initializers/session_store.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303845829" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/gl-be32feb772478bad5081e62839fd9fd3.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/fr-ca.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/app/assets/javascripts/store/slider2.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304726089" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -988,7 +1099,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1152" height="810" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
