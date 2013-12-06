@@ -12,11 +12,11 @@
     <file path="/pages_helper.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382005456061" ignored="false" />
     <file path="/20090814113100_add_visible_to_pages.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382006860640" ignored="false" />
     <file path="/en.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382033211163" ignored="false" />
-    <file path="/index.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386090486928" ignored="false" />
+    <file path="/index.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386306735180" ignored="false" />
     <file path="$PROJECT_DIR$/../spree_articles/spree_articles.gemspec" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382030859844" ignored="false" />
     <file path="/spree_articles.gemspec" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382016569210" ignored="false" />
     <file path="$PROJECT_DIR$/../spree_articles/Gemfile" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382016599236" ignored="false" />
-    <file path="/Dummy.txt" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304313212" ignored="false" />
+    <file path="/Dummy.txt" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386305631336" ignored="false" />
     <file path="$PROJECT_DIR$/../spree_articles/db/migrate/20131017133159_create_articles.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382017638416" ignored="false" />
     <file path="/20131017133159_create_articles.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382017140021" ignored="false" />
     <file path="$PROJECT_DIR$/../spree_articles/db/migrate/20131017133509_create_article.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382016959904" ignored="false" />
@@ -68,7 +68,7 @@
     <file path="$PROJECT_DIR$/../../my_store/db/migrate/20131017193643_create_articles.spree_articles.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382038662808" ignored="false" />
     <file path="/20131017193643_create_articles.spree_articles.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382038657712" ignored="false" />
     <file path="/schema.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382039693282" ignored="false" />
-    <file path="/Ruby Console" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386071705036" ignored="false" />
+    <file path="/Ruby Console" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386305696436" ignored="false" />
     <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/admin/categories/_article_fields.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382366472396" ignored="false" />
     <file path="/_article_fields.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382366470487" ignored="false" />
     <file path="$PROJECT_DIR$/../spree_articles/app/helpers/spree/categories_helper.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382369339242" ignored="false" />
@@ -138,7 +138,7 @@
     <file path="$PROJECT_DIR$/../../my/app/assets/javascripts/store/slider.js.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384517897314" ignored="false" />
     <file path="/slider.js.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384517814899" ignored="false" />
     <file path="/error_messages_helper.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384533417048" ignored="false" />
-    <file path="/contact.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385552262790" ignored="false" />
+    <file path="/contact.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386306885494" ignored="false" />
     <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/shared/_show.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384539833464" ignored="false" />
     <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/admin/articles/show.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384539988650" ignored="false" />
     <file path="$PROJECT_DIR$/../spree_articles/app/controllers/spree/showcategories_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384737569654" ignored="false" />
@@ -155,7 +155,7 @@
     <file path="$PROJECT_DIR$/../../my/app/views/spree/checkout/edit.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386000157957" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/app/views/spree/address/_form.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385757914117" ignored="false" />
     <file path="/_main_nav_bar_2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386071748104" ignored="false" />
-    <file path="/_slider.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385808108366" ignored="false" />
+    <file path="/_slider.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386305725921" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/app/views/spree/shared/_slider.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385809800142" ignored="false" />
     <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/showcategories/show2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386078168845" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/app/assets/javascripts/store/toggleSlider.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386090422542" ignored="false" />
@@ -191,7 +191,7 @@
     <file path="$PROJECT_DIR$/../../my/app/views/spree/products/_image.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385477985144" ignored="false" />
     <file path="/_image.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385477985144" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/app/views/spree/shared/_products2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385478130823" ignored="false" />
-    <file path="/_products2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385478130251" ignored="false" />
+    <file path="/_products2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386306819711" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/app/assets/javascripts/store/slider2.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386001248760" ignored="false" />
     <file path="/slider2.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304429443" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/app/views/spree/shared/_slider4.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385556047495" ignored="false" />
@@ -249,9 +249,9 @@
     <file path="$PROJECT_DIR$/../../Karpal/app/assets/javascripts/admin/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386300626628" ignored="false" />
     <file path="$PROJECT_DIR$/../../Karpal/public/assets/application.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304656170" ignored="false" />
     <file path="$PROJECT_DIR$/../../Karpal/public/assets/admin/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386301416306" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Karpal/app/views/spree/home/index.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386301654727" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/app/views/spree/home/index.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386306735180" ignored="false" />
     <file path="$PROJECT_DIR$/../../Karpal/app/assets/stylesheets/application.css" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386302589623" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Karpal/app/assets/stylesheets/store/screen.css.scss" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303587114" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/app/assets/stylesheets/store/screen.css.scss" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386306763424" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/config/environments/production.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/backend/spree_backend.gemspec" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/config/environments/development.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386303787330" ignored="false" />
@@ -360,6 +360,9 @@
     <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/gl-be32feb772478bad5081e62839fd9fd3.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
     <file path="$PROJECT_DIR$/../../Karpal/public/assets/ckeditor/lang/fr-ca.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304048190" ignored="false" />
     <file path="$PROJECT_DIR$/../../Karpal/app/assets/javascripts/store/slider2.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386304726089" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/config/locales/en.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386305670496" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/app/views/spree/shared/_slider.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386305785171" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/app/views/spree/shared/_products2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386306820953" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -382,8 +385,14 @@
       <file leaf-file-name="contact.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/spree/home/contact.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="1049" selection-end="1049" vertical-scroll-proportion="-0.625">
-              <folding />
+            <state line="5" column="13" selection-start="280" selection-end="280" vertical-scroll-proportion="-3.125">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -391,7 +400,25 @@
       <file leaf-file-name="edit.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/spree/admin/pages/edit.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/spree/admin/pages/index.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="18" selection-start="783" selection-end="783" vertical-scroll-proportion="-16.333334">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/spree/admin/pages/new.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -400,25 +427,7 @@
       <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/spree/admin/pages/_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="37" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="static.coffee" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/static.coffee">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spree_static_content.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/admin/spree_static_content.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="11" column="37" selection-start="449" selection-end="449" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
@@ -427,16 +436,16 @@
       <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="56" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
+            <state line="11" column="7" selection-start="363" selection-end="363" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="messages_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/spree/messages_controller.rb">
+      <file leaf-file-name="showoffer.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/showoffer.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -445,16 +454,78 @@
       <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/spree/messages/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="75" selection-start="6596" selection-end="6607" vertical-scroll-proportion="0.0">
+            <state line="5" column="13" selection-start="280" selection-end="280" vertical-scroll-proportion="-3.125">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#2;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#2;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#div#2;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#3;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#0;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#1;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#strong#1;n#span#0;n#div#1;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#2;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#3;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#3;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#4;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#4;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#5;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#5;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#6;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#6;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#7;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#7;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#7;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#8;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#8;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#8;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#9;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#9;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#10;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#10;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#11;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#11;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#12;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#12;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#13;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#13;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#13;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_static_content_header.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/_static_content_header.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="error_messages_helper.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/helpers/error_messages_helper.rb">
+      <file leaf-file-name="_static_content_list.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/_static_content_list.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -480,12 +551,12 @@
         <option value="$PROJECT_DIR$/app/controllers/spree/static_content_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/spree/static_content/showoffer.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/spree/messages_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/spree/messages/new.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/spree/home/contact.html.erb" />
         <option value="$PROJECT_DIR$/app/views/spree/admin/pages/_form.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/spree/static_content/show.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/admin/d.js" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/admin/static.coffee" />
+        <option value="$PROJECT_DIR$/app/views/spree/home/contact.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/spree/messages/new.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/spree/static_content/show.html.erb" />
       </list>
     </option>
   </component>
@@ -635,14 +706,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="spree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -818,7 +881,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ekosoczkiGEMY/spree_slider" />
     <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
   </component>
@@ -1184,29 +1247,11 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="52" selection-start="945" selection-end="945" vertical-scroll-proportion="0.7311828" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/_static_content_list.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/admin/pages/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="18" selection-start="783" selection-end="783" vertical-scroll-proportion="0.6553398" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/spree/home_controller_decorator.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/spree/static_content_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="39" selection-start="39" selection-end="61" vertical-scroll-proportion="0.0" />
+        <state line="0" column="39" selection-start="39" selection-end="61" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/spree/admin/pages_controller.rb">
@@ -1230,9 +1275,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/messages/new.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/admin/spree_static_content.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="75" selection-start="6596" selection-end="6607" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/static.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="70" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/admin/pages/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="37" selection-start="449" selection-end="449" vertical-scroll-proportion="-6.875">
           <folding />
         </state>
       </provider>
@@ -1244,37 +1303,117 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/home/contact.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/spree/admin/pages/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="1049" selection-end="1049" vertical-scroll-proportion="-0.625">
+        <state line="27" column="18" selection-start="783" selection-end="783" vertical-scroll-proportion="-16.333334">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/admin/pages/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="37" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="56" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/admin/spree_static_content.css">
+    <entry file="file://$PROJECT_DIR$/app/views/spree/admin/pages/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/static.coffee">
+    <entry file="file://$PROJECT_DIR$/app/views/spree/home/contact.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
+        <state line="5" column="13" selection-start="280" selection-end="280" vertical-scroll-proportion="-3.125">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/messages/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="280" selection-end="280" vertical-scroll-proportion="-3.125">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#2;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#div#2;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#3;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#0;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#1;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#1;n#span#0;n#div#1;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#2;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#3;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#3;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#4;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#4;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#5;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#5;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#6;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#6;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#7;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#7;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#8;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#8;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#9;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#10;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#10;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#11;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#11;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#12;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#12;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#13;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#13;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#div#13;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/_static_content_header.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/_static_content_list.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="7" selection-start="363" selection-end="363" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/showoffer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
