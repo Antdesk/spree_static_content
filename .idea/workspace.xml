@@ -227,7 +227,7 @@
     <file path="/_delivery.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385974926868" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/app/views/spree/checkout/_payment.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385975349821" ignored="false" />
     <file path="/_payment.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385975335404" ignored="false" />
-    <file path="/static.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386071185946" ignored="false" />
+    <file path="/static.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386300711518" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/app/assets/stylesheets/admin/all.css" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386080638918" ignored="false" />
     <file path="$PROJECT_DIR$/../../my/app/assets/stylesheets/store/all.css" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386086871405" ignored="false" />
     <file path="/all.css" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386086857385" ignored="false" />
@@ -246,7 +246,7 @@
     <file path="$PROJECT_DIR$/../../Karpal/config/initializers/spree.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386261763425" ignored="false" />
     <file path="$PROJECT_DIR$/../../Karpal/config/environments/production.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386262940620" ignored="false" />
     <file path="$PROJECT_DIR$/../../Karpal/app/assets/javascripts/store/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386263050707" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Karpal/app/assets/javascripts/admin/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386300387867" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/app/assets/javascripts/admin/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386300626628" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,10 +293,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="static.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="static.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/static.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="44" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
+            <state line="1" column="12" selection-start="22" selection-end="22" vertical-scroll-proportion="0.024590164">
               <folding />
             </state>
           </provider>
@@ -304,15 +304,6 @@
       </file>
       <file leaf-file-name="spree_static_content.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/admin/spree_static_content.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="d.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/d.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -380,8 +371,8 @@
         <option value="$PROJECT_DIR$/app/views/spree/home/contact.html.erb" />
         <option value="$PROJECT_DIR$/app/views/spree/admin/pages/_form.html.erb" />
         <option value="$PROJECT_DIR$/app/views/spree/static_content/show.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/admin/static.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/admin/d.js" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/admin/static.coffee" />
       </list>
     </option>
   </component>
@@ -1161,13 +1152,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/static.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="44" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/admin/spree_static_content.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1175,9 +1159,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/d.js">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/static.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="1" column="12" selection-start="22" selection-end="22" vertical-scroll-proportion="0.024590164">
           <folding />
         </state>
       </provider>
