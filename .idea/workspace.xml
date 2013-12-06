@@ -247,6 +247,8 @@
     <file path="$PROJECT_DIR$/../../Karpal/config/environments/production.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386262940620" ignored="false" />
     <file path="$PROJECT_DIR$/../../Karpal/app/assets/javascripts/store/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386263050707" ignored="false" />
     <file path="$PROJECT_DIR$/../../Karpal/app/assets/javascripts/admin/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386300626628" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/application.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386301086959" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/public/assets/admin/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386301086959" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +298,7 @@
       <file leaf-file-name="static.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/static.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="12" selection-start="22" selection-end="22" vertical-scroll-proportion="0.024590164">
+            <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -986,7 +988,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1152" height="810" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1161,7 +1163,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/static.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="22" selection-end="22" vertical-scroll-proportion="0.024590164">
+        <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
