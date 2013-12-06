@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" name="Default" comment="" />
+    <ignored path="spree_static_content-2-0-stable.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/../../my_store/Gemfile" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1383150005000" ignored="false" />
+    <file path="/Gemfile" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386261090249" ignored="false" />
+    <file path="/_form.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385814508058" ignored="false" />
+    <file path="/_static_content_list.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382696065731" ignored="false" />
+    <file path="/pages_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1383261000216" ignored="false" />
+    <file path="/pages_helper.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382005456061" ignored="false" />
+    <file path="/20090814113100_add_visible_to_pages.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382006860640" ignored="false" />
+    <file path="/en.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382033211163" ignored="false" />
+    <file path="/index.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386090486928" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/spree_articles.gemspec" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382030859844" ignored="false" />
+    <file path="/spree_articles.gemspec" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382016569210" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/Gemfile" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382016599236" ignored="false" />
+    <file path="/Dummy.txt" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382359193093" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/db/migrate/20131017133159_create_articles.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382017638416" ignored="false" />
+    <file path="/20131017133159_create_articles.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382017140021" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/db/migrate/20131017133509_create_article.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382016959904" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/db/migrate/20131017133938_create_categories.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382017633512" ignored="false" />
+    <file path="/20131017133938_create_categories.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382017366200" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/models/spree/article.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384552056531" ignored="false" />
+    <file path="/article.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384552051812" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/models/spree/category.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386082686397" ignored="false" />
+    <file path="/category.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384737209278" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/controllers/spree/admin/articles_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384549087965" ignored="false" />
+    <file path="/articles_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384543296484" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/overrides/articles_admin_tab.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382549370222" ignored="false" />
+    <file path="/articles_admin_tab.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382549341431" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/overrides/articles_in_nav.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384862712716" ignored="false" />
+    <file path="/articles_in_nav.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382976130617" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/article_content/_article_content_nav.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382039832765" ignored="false" />
+    <file path="/_article_content_nav.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382039832765" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/article_content/_article_content_list.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382975957555" ignored="false" />
+    <file path="/_article_content_list.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382975913756" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/controllers/spree/admin/categories_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385478532925" ignored="false" />
+    <file path="/categories_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1383151906261" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/config/routes.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384737460119" ignored="false" />
+    <file path="/routes.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385728150108" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/admin/Categories/index.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382030520269" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/VERSION" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382030840561" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/db/migrate/20131017173009_create_articles.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382361613953" ignored="false" />
+    <file path="/20131017173009_create_articles.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382361613107" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my_store/db/schema.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382564402925" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/config/locales/en.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382547844134" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/admin/categories/index.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382548432484" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/db/migrate/20131017182124_prefix_categories_table_name.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382034128777" ignored="false" />
+    <file path="/20131017182124_prefix_categories_table_name.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382034121466" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/db/migrate/20131017182223_prefix_articles_table_name.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382034171161" ignored="false" />
+    <file path="/20131017182223_prefix_articles_table_name.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382034171161" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/admin/categories/new.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385731286711" ignored="false" />
+    <file path="/new.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385467499800" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/admin/categories/_form.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382565384808" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/admin/articles/index.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382035497106" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/article_content/_article_list.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382036505770" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/article_content/sdf.html" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382036527720" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/article_content/asd.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382036540245" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/article_content/_articles_list.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382041158924" ignored="false" />
+    <file path="/_articles_list.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382041146116" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/article_content/_article.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382036671681" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/admin/categories/edit.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385731293546" ignored="false" />
+    <file path="/edit.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385813290292" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/admin/articles/new.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382038227542" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/admin/articles/_form.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382038436844" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my_store/db/migrate/20131017193643_create_articles.spree_articles.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382038662808" ignored="false" />
+    <file path="/20131017193643_create_articles.spree_articles.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382038657712" ignored="false" />
+    <file path="/schema.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382039693282" ignored="false" />
+    <file path="/Ruby Console" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386071705036" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/admin/categories/_article_fields.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382366472396" ignored="false" />
+    <file path="/_article_fields.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382366470487" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/helpers/spree/categories_helper.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382369339242" ignored="false" />
+    <file path="/categories_helper.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382369461978" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/assets/javascripts/admin/spree_articles.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386073518894" ignored="false" />
+    <file path="/spree_articles.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386072560177" ignored="false" />
+    <file path="$PROJECT_DIR$/../../surveysays/Gemfile" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382359073794" ignored="false" />
+    <file path="$PROJECT_DIR$/../../surveysays/config/routes.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382359073794" ignored="false" />
+    <file path="$PROJECT_DIR$/../../surveysays/db/schema.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382359761750" ignored="false" />
+    <file path="$PROJECT_DIR$/../../surveysays/app/models/question.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382359217620" ignored="false" />
+    <file path="/question.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382359216339" ignored="false" />
+    <file path="$PROJECT_DIR$/../../surveysays/app/models/survey.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382359519190" ignored="false" />
+    <file path="/survey.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382359255586" ignored="false" />
+    <file path="$PROJECT_DIR$/../../surveysays/app/views/surveys/_form.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382359568765" ignored="false" />
+    <file path="$PROJECT_DIR$/../../surveysays/app/controllers/surveys_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382359877806" ignored="false" />
+    <file path="/surveys_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382359821414" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/helpers/spree/base_helper_decorator.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382369472884" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/admin/categories/_spree_article_fields.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385672076322" ignored="false" />
+    <file path="/_spree_article_fields.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385672053804" ignored="false" />
+    <file path="/_tiny_mce.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382380283039" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_editor-master/app/views/shared/editor_engines/_tiny_mce.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382380592580" ignored="false" />
+    <file path="/show.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386075858615" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/admin/categories/show.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384543428532" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my_store/app/assets/javascripts/store/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382564402925" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my_store/config/application.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382560937035" ignored="false" />
+    <file path="/application.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384866655534" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my_store/config/initializers/spree.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382559807112" ignored="false" />
+    <file path="/spree.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386261763425" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my_store/config/locales/pl.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382565123309" ignored="false" />
+    <file path="/pl.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384866075934" ignored="false" />
+    <file path="/static_content_admin_tab.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382549004776" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/config/locales/pl.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382565240127" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my_store/config/tinymce.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382561351648" ignored="false" />
+    <file path="/tinymce.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385588677426" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my_store/Gemfile.lock" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382564306942" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my_store/config/locales/en.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382564446361" ignored="false" />
+    <file path="/pages_in_header.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382695508909" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my_store/app/views/spree/shared/_main_nav_bar_2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382696195040" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my_store/app/assets/stylesheets/store/screen.css.scss" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384264926500" ignored="false" />
+    <file path="/screen.css.scss" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386092750977" ignored="false" />
+    <file path="$PROJECT_DIR$/../../example/Gemfile" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1382716258133" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my_store/app/views/spree/products/show.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1383264429776" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my_store/app/views/spree/products/_cart_form.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1383264574535" ignored="false" />
+    <file path="/_cart_form.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385583514862" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my_store/app/views/spree/layouts/spree_application.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384263082368" ignored="false" />
+    <file path="$PROJECT_DIR$/../../heroku/Gemfile" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384349917625" ignored="false" />
+    <file path="$PROJECT_DIR$/../../heroku/config/application.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384345274025" ignored="false" />
+    <file path="$PROJECT_DIR$/../../heroku/Gemfile.lock" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384350899470" ignored="false" />
+    <file path="$PROJECT_DIR$/../../heroku/app/assets/stylesheets/store/screen.css.scss" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384513379751" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/assets/stylesheets/store/screen.css.scss" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386092752074" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/config/routes.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385733301954" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/controllers/messages_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384514602451" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/shared/_main_nav_bar_2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386072369934" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/layouts/application.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384515370006" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/messages/new.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384516500312" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/shared/_head.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384515359374" ignored="false" />
+    <file path="/home_controller_decorator.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384533222367" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/controllers/spree/messages_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384516022286" ignored="false" />
+    <file path="/messages_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385470276397" ignored="false" />
+    <file path="/message.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384533195199" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/models/spree/message.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384516145300" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/db/schema.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386079631345" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/messages/new.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384516218823" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/home/index.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386090486928" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/messages/_new.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384516909798" ignored="false" />
+    <file path="/_new.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384516909798" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/assets/javascripts/store/slider.js.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384517897314" ignored="false" />
+    <file path="/slider.js.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384517814899" ignored="false" />
+    <file path="/error_messages_helper.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384533417048" ignored="false" />
+    <file path="/contact.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385552262790" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/shared/_show.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384539833464" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/admin/articles/show.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384539988650" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/controllers/spree/showcategories_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384737569654" ignored="false" />
+    <file path="/showcategories_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384737557134" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/showcategories/show.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386075861476" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/controllers/spree/showarticles_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384737774899" ignored="false" />
+    <file path="/showarticles_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384737765760" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/showarticles/show.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385631199725" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/shared/_products.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384555891075" ignored="false" />
+    <file path="/_products.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384555863651" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/orders/edit.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385969478707" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/checkout/_address.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386000176662" ignored="false" />
+    <file path="/_address.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385975477472" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/checkout/edit.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386000157957" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/address/_form.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385757914117" ignored="false" />
+    <file path="/_main_nav_bar_2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386071748104" ignored="false" />
+    <file path="/_slider.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385808108366" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/shared/_slider.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385809800142" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree_articles/app/views/spree/showcategories/show2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386078168845" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/assets/javascripts/store/toggleSlider.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386090422542" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/controllers/randoms_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385733291607" ignored="false" />
+    <file path="/randoms_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385731342674" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/randoms/generate.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384743287875" ignored="false" />
+    <file path="/generate.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384743287875" ignored="false" />
+    <file path="/toggleSlider.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386090341609" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/Gemfile" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386250614427" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/config/application.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384866655534" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/config/locales/pl.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1384866098490" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/frontend/app/assets/stylesheets/store/_variables.scss" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385042159822" ignored="false" />
+    <file path="/static_content_controller.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385044047439" ignored="false" />
+    <file path="/showoffer.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385044230748" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/config/tinymce.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385588747165" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/assets/javascripts/store/tinymce.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385045886987" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/orders/_line_item.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385586581493" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/assets/javascripts/store/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386086900741" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/assets/javascripts/agile_carousel.alpha.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385126126298" ignored="false" />
+    <file path="/agile_carousel.alpha.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385125979223" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/config/environment.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385125492582" ignored="false" />
+    <file path="/environment.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385125414650" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/.gitignore" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385142143714" ignored="false" />
+    <file path="/.gitignore" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385142143714" ignored="false" />
+    <file path="/a.dummy" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385972940229" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/db/development.sqlite3" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386254069278" ignored="false" />
+    <file path="/show2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385458042601" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/assets/javascripts/store/contact.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385984375039" ignored="false" />
+    <file path="/contact.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385984279818" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/config/initializers/spree.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385473519048" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/models/spree/image_decorator.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385478220218" ignored="false" />
+    <file path="/image_decorator.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385478219874" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/products/_image.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385477985144" ignored="false" />
+    <file path="/_image.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385477985144" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/shared/_products2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385478130823" ignored="false" />
+    <file path="/_products2.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385478130251" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/assets/javascripts/store/slider2.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386001248760" ignored="false" />
+    <file path="/slider2.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385734085215" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/shared/_slider4.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385556047495" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/assets/javascripts/jquery.ui.rcarousel.min.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385554790470" ignored="false" />
+    <file path="/jquery.ui.rcarousel.min.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385554757189" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/assets/javascripts/rcarousel.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385554947060" ignored="false" />
+    <file path="/rcarousel.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385554910247" ignored="false" />
+    <file path="/_slider4.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385555885655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../spree/Gemfile" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385557378087" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/products/show.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385635237879" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/products/_thumbnails.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385635641789" ignored="false" />
+    <file path="/_thumbnails.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385635631706" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/assets/javascripts/store/product.js.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385583064061" ignored="false" />
+    <file path="/product.js.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385582896716" ignored="false" />
+    <file path="$PROJECT_DIR$/../spree/frontend/app/assets/javascripts/store/product.js.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385583205082" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/frontend/app/assets/javascripts/store/product.js.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385582913568" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/ekosoczkiGEMY/spree/frontend/spree_frontend.gemspec" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385583105731" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/products/_cart_form.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385583518734" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/Gemfile.lock" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385734992371" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/assets/javascripts/application.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385656179772" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/assets/stylesheets/application.css" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385656220017" ignored="false" />
+    <file path="/application.css" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385656220017" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/config/initializers/ckeditor.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385671014974" ignored="false" />
+    <file path="/ckeditor.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385671014974" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/layouts/admin.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385671845449" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/assets/javascripts/admin/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386080646116" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/vendor/assets/javascripts/simple.carousel.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385734530898" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/checkout/_summary.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385758777587" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/assets/stylesheets/store/_variables.scss" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385813701358" ignored="false" />
+    <file path="/_variables.scss" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385813568850" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/orders/_form.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385814543747" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/checkout/_delivery.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386000213984" ignored="false" />
+    <file path="/_delivery.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385974926868" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/checkout/_payment.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385975349821" ignored="false" />
+    <file path="/_payment.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1385975335404" ignored="false" />
+    <file path="/static.coffee" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386071185946" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/assets/stylesheets/admin/all.css" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386080638918" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/assets/stylesheets/store/all.css" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386086871405" ignored="false" />
+    <file path="/all.css" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386086857385" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/app/views/spree/layouts/spree_application.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386169737405" ignored="false" />
+    <file path="/spree_application.html.erb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386161505350" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/config/initializers/social_share_button.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386087966766" ignored="false" />
+    <file path="/social_share_button.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386087957855" ignored="false" />
+    <file path="$PROJECT_DIR$/../../my/config/database.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386250769672" ignored="false" />
+    <file path="/database.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386250637253" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/Gemfile" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386261854170" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/config/database.yml" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386171451628" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/db/schema.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386262248914" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/Gemfile.lock" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386261898769" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/config/application.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386260229060" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/db/seeds.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386260229060" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/config/initializers/spree.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386261763425" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/config/environments/production.rb" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386262940620" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Karpal/app/assets/javascripts/store/all.js" changelist="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" time="1386263050707" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="spree_static_content-2-0-stable" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="contact.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/spree/home/contact.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="0" selection-start="1049" selection-end="1049" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/spree/admin/pages/edit.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1372361511000" expanded="true" signature="493:639" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/spree/admin/pages/_form.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="37" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="static.coffee" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/static.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="19" selection-start="232" selection-end="232" vertical-scroll-proportion="0.09836066">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/show.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="56" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/spree/messages_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="0" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pages_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/spree/admin/pages_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="static_content_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/spree/static_content_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="39" selection-start="39" selection-end="61" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/spree/messages/new.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="75" selection-start="6596" selection-end="6607" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error_messages_helper.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/helpers/error_messages_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/views/spree/static_content/_static_content_list.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/spree/admin/pages_controller.rb" />
+        <option value="$PROJECT_DIR$/app/helpers/spree/error_messages_helper.rb" />
+        <option value="$PROJECT_DIR$/app/models/message.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/spree/home_controller_decorator.rb" />
+        <option value="$PROJECT_DIR$/app/helpers/error_messages_helper.rb" />
+        <option value="$PROJECT_DIR$/app/overrides/pages_in_header.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/spree/static_content_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/spree/static_content/showoffer.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/spree/messages_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/spree/messages/new.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/spree/home/contact.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/spree/admin/pages/_form.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/spree/static_content/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/admin/static.coffee" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="27" />
+    <option name="width" value="1152" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="RailsProjectView" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="spree_static_content">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="All">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="spree_static_content">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="spree_static_content">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="spree_static_content">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="assets/stylesheets/admin">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content-2-0-stable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content-2-0-stable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content-2-0-stable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static_content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content-2-0-stable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="messages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content-2-0-stable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content-2-0-stable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content-2-0-stable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content-2-0-stable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content-2-0-stable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content-2-0-stable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content-2-0-stable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree_static_content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spree_articles" />
+    <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
+    <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/controllers" />
+      <recent name="$PROJECT_DIR$/app/helpers" />
+      <recent name="$PROJECT_DIR$/app/models/spree" />
+      <recent name="$PROJECT_DIR$/app/models" />
+      <recent name="$PROJECT_DIR$/app/helpers/spree" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Rails.Development: spree_static_content-2-0-stable">
+    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="spree_static_content-2-0-stable" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="spec" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="spree_static_content-2-0-stable" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Production: spree_static_content-2-0-stable" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="spree_static_content-2-0-stable" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Development: spree_static_content-2-0-stable" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="spree_static_content-2-0-stable" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Rake.test" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: spree_static_content-2-0-stable" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: spree_static_content-2-0-stable" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca6ef7fa-a842-4520-a61d-941c34c2b7f9" name="Default" comment="" />
+      <created>1382000676663</created>
+      <updated>1382000676663</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1152" height="810" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38224638" sideWeight="0.6740088" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890856" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32599118" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/showoffer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="25" selection-start="321" selection-end="321" vertical-scroll-proportion="-5.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="52" selection-start="945" selection-end="945" vertical-scroll-proportion="0.7311828" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/_static_content_list.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/admin/pages/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="18" selection-start="783" selection-end="783" vertical-scroll-proportion="0.6553398" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/admin/spree_static_content.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/spree/home_controller_decorator.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/spree/static_content_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="39" selection-start="39" selection-end="61" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/spree/admin/pages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/spree/messages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/error_messages_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/messages/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="75" selection-start="6596" selection-end="6607" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/admin/pages/edit.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1372361511000" expanded="true" signature="493:639" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/home/contact.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="1049" selection-end="1049" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/admin/pages/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="37" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="56" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/static.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="19" selection-start="232" selection-end="232" vertical-scroll-proportion="0.09836066">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

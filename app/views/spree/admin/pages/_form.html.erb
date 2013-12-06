@@ -1,0 +1,34 @@
+<div class="row">
+
+    <%= f.field_container :title do %>
+        <%= f.label Spree.t("static_content.title") %> <span class="required">*</span><br />
+        <%= f.text_field :title, :class => 'fullwidth title' %>
+        <%= f.error_message_on :title %>
+    <% end %>
+
+    <%= f.field_container :slug do %>
+        <%= f.label "slug" %>  <span class="required">*</span><br />
+        <%= f.text_field :slug %>
+        <%= f.error_message_on :slug %>
+    <% end %>
+
+    <%= f.field_container :body do %>
+        <%= f.label Spree.t("static_content.body") %><span class="required">*</span><br /> <br />
+        <%= f.text_area :body, {:class => 'fullwidth'} %>
+        <%= f.error_message_on :body %>
+    <% end %>
+
+
+  <div class="omega one columns">
+    <%= f.field_container :position do %>
+        <%= f.label Spree.t("static_content.position") %><br />
+        <%= f.number_field :position, :min => 0 %>
+    <% end %>
+
+    <ul id="static_page_options">
+      <%= f.label Spree.t("static_content.visible") %>
+      <%= f.check_box :visible %>
+    </ul>
+
+  </div>
+</div>

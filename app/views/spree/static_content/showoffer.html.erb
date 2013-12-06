@@ -1,0 +1,11 @@
+<% content_for :head do -%>
+    <meta name="title" content="<%=@page.title%>">
+<% end -%>
+<div class="block offer_image">&nbsp;</div>
+<div class="block shadow_slider">&nbsp;</div>
+<div class="block" style="text-align: center;">
+  <div class="faq_block_q">&nbsp;</div>
+  <div class="faq_block_a">
+    <%= raw @page.body %>
+  </div>
+</div>

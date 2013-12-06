@@ -1,0 +1,19 @@
+<% content_for :head do -%>
+    <meta name="title" content="<%=@page.title%>">
+<% end -%>
+<div class="block">
+  <div class="product_title">
+    <% if @page.title == 'FAQ' %>
+        <div style="margin-left: 15px;">Vanliga frågor och svar – LycoLife</div>
+    <% else %>
+        <div style="margin-left: 15px;"><%=@page.title%></div>
+    <% end %>
+  </div>
+  <div class="product_block_cart">
+    <div class="product_cart" id="link-to-cart" data-hook><%= link_to_cart %></div>
+    <div class="product_cart_img"></div>
+  </div>
+</div>
+<div class="block textpage">
+<%= raw @page.body %>
+</div>

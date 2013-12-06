@@ -1,0 +1,62 @@
+<div class="block">
+  <div class="product_title"><div style="margin-left: 15px;"> Kontakt </div></div>
+  <div class="product_block_cart">
+    <div class="product_cart" id="link-to-cart" data-hook><%= link_to_cart %></div>
+    <div class="product_cart_img"></div>
+  </div>
+</div>
+<div class="block textpage" style="text-align: justify">
+  <BR><BR><br>
+  <div class="faq_block_q">&nbsp;</div>
+  <div class="faq_block_a">
+    <b>KARPAL</b> är en svensk firma som säljer hälsoprodukter. Vi fokuserar på produkter som innehåller enbart naturliga ämnen vars effektivitet blivit bekräftad av undersökningar. <b>LycoLife</b> är vår första produkt på den svenska marknaden.<br><br>
+    <b>KARPAL</b> är den enda distributören av LyckoLife-drycken i Sverige.<br><br>
+    <br><br>
+    <div class="contact_left">
+
+      Karpal<br>
+      Arrendevägen 59<br>
+      163 44 Spånga<br>
+      Stockholm<br>
+      Sverige<br><br>
+
+
+      <div class="logo_contact"></div>  <br>
+
+      tel: +46 728 632 500<br>
+      office@lycolife.se<br>
+      www.lycolife.se<br><br>
+
+    </div>
+
+    <div class="contact_right">
+      För att få mer information om våra produkter ber vi om kontakt via e-mail eller telefon.
+      Vi ska försöka svara på alla inkomna frågor inom 24 timmar.
+        <br>   <br>
+      <% 'Kontakt' %>
+
+  <%= form_for @message do |f| %>
+      <%= f.error_messages %>
+
+
+          <div style="display:inline-block">
+      <%= f.text_field :name, :title => '*Namn', :class => 'defaultText' %> </br></br>
+
+      <%= f.text_field :phone, :title => 'Telefonnummer', :class => 'defaultText'  %> </br></br>
+          </div>
+            <div style="display:inline-block">
+      <%= f.text_field :email, :title => '*Mailadress', :class => 'defaultText' %> </br></br>
+
+      <%= f.text_field :hau, :title => 'Hur fick du information om oss?', :class => 'defaultText' %> </br></br>
+
+            </div>
+      <%= f.text_field :title, :title => '*Amne', :class => 'defaultText', :style => 'width: 623px' %> </br></br>
+
+      <%= f.text_area :content, :title => '*Meddelande', :class => 'defaultText', :style => 'width: 623px; height:100px;' %> </br></br>
+
+      <div style="float:right; margin-right: 15px;"><%= f.submit 'Send' %></div>
+
+  <% end %>
+    </div>
+  </div>
+</div>
