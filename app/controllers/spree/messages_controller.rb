@@ -42,7 +42,7 @@ class Spree::MessagesController < Spree::StoreController
       #end
       if Spree::ContactMailer.contact_email(@message).deliver
         flash[:notice] = 'Wiadomosc wyslana! Dziekuje za poinformowanie nas.'
-        redirect_to root_url
+        redirect_to root_url and return
       end
       render :json => "fail" and return
     else
