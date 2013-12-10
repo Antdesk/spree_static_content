@@ -33,18 +33,18 @@ class Spree::MessagesController < Spree::StoreController
     @message = Spree::Message.new(params[:message])
 
     if @message.valid?
-      flash[:notice] = 'Wiadomosc wyslana! Dziekuje za poinformowanie nas.'
-      @dane = {:email => "adrian.toczydlowski@gmail.com", :from_address => @message.email, :subject => @message.content}
+      #@dane = {:email => "adrian.toczydlowski@gmail.com", :from_address => @message.email,
+      #         :subject => @message.content}
 
-      if ActionMailer::Base.mail(to: "adrian.toczydlowski@gmail.com", from: "adrian.toczydlowski@gmail.com", subject: "ddasd").deliver
-        render :json => @dane and return
-        flash[:success] = Spree.t('sukces22')
+      #if ActionMailer::Base.mail(to: "adrian.toczydlowski@gmail.com", from: "adrian.toczydlowski@gmail.com", subject: "ddasd").deliver
+      #  render :json => @dane and return
+      #  flash[:success] = Spree.t('sukces22')
+      #end
+      if Spree::ContactMailer.contact_email(@message).deliver
+        flash[:notice] = 'Wiadomosc wyslana! Dziekuje za poinformowanie nas.'
+        redirect_to root_url
       end
-      render :json => @dane and return
-      if Spree::TestMailer.contact_email(@dane).deliver
-        flash[:success] = Spree.t('sukces')
-      end
-      redirect_to root_url
+      render :json => "fail" and return
     else
       render :action => 'new'
     end
