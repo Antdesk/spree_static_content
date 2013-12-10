@@ -45,20 +45,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="messages_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="messages_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/spree/messages_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="8" selection-start="1581" selection-end="1581" vertical-scroll-proportion="0.8327402" vertical-offset="378" max-vertical-offset="1044">
+            <state line="45" column="9" selection-start="1532" selection-end="1532" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1044">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="new.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/spree/messages/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="105" selection-start="7179" selection-end="7274" vertical-scroll-proportion="-14.666667" vertical-offset="540" max-vertical-offset="1134">
-              <folding />
+            <state line="60" column="8" selection-start="2401" selection-end="2401" vertical-scroll-proportion="0.89906543" vertical-offset="599" max-vertical-offset="1206">
+              <folding>
+                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,7 +71,7 @@
       <file leaf-file-name="contact.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/spree/home/contact.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="6" selection-start="2365" selection-end="2365" vertical-scroll-proportion="-15.777778" vertical-offset="672" max-vertical-offset="1206">
+            <state line="61" column="6" selection-start="0" selection-end="2365" vertical-scroll-proportion="-15.814815" vertical-offset="671" max-vertical-offset="1206">
               <folding>
                 <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
               </folding>
@@ -144,9 +149,9 @@
         <option value="$PROJECT_DIR$/app/views/spree/static_content/show.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/spree/contact_mailer_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/spree/contact_mailer/contact_email.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/spree/messages/new.html.erb" />
         <option value="$PROJECT_DIR$/app/views/spree/home/contact.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/spree/messages_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/spree/messages/new.html.erb" />
       </list>
     </option>
   </component>
@@ -805,7 +810,12 @@
     <entry file="file://$PROJECT_DIR$/app/views/spree/messages/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="8" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="1134">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -882,7 +892,12 @@
     <entry file="file://$PROJECT_DIR$/app/views/spree/messages/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="8" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="1134">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -959,7 +974,12 @@
     <entry file="file://$PROJECT_DIR$/app/views/spree/messages/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="13" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1116">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1100,9 +1120,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/spree/messages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="9" selection-start="1532" selection-end="1532" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1044">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/spree/home/contact.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="6" selection-start="2365" selection-end="2365" vertical-scroll-proportion="-15.777778" vertical-offset="672" max-vertical-offset="1206">
+        <state line="61" column="6" selection-start="0" selection-end="2365" vertical-scroll-proportion="-15.814815" vertical-offset="671" max-vertical-offset="1206">
           <folding>
             <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
           </folding>
@@ -1111,15 +1138,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/spree/messages/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="105" selection-start="7179" selection-end="7274" vertical-scroll-proportion="-14.666667" vertical-offset="540" max-vertical-offset="1134">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/spree/messages_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="8" selection-start="1581" selection-end="1581" vertical-scroll-proportion="0.8327402" vertical-offset="378" max-vertical-offset="1044">
-          <folding />
+        <state line="60" column="8" selection-start="2401" selection-end="2401" vertical-scroll-proportion="0.89906543" vertical-offset="599" max-vertical-offset="1206">
+          <folding>
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
