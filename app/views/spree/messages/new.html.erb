@@ -50,7 +50,7 @@
           <%= f.text_field :title, :title => '*Amne', :class => 'defaultText' %> </br></br>
 
           <%= f.text_area :content, :title => '*Meddelande', :class => 'defaultText', :size => '29x5' %> </br></br>
-          <%= recaptcha_tags(:ajax => true) %>
+          <%= recaptcha_tags(:ajax => true, :public_key => '6LdJkesSAAAAAJERh9InwG6CfhGvkXFFC6ioR7ue') %>
           <%= f.submit 'Send MSG' %>
       <% end %>
     </div>
