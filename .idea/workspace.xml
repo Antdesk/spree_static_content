@@ -45,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="messages_controller.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="messages_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/spree/messages_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="168" selection-start="986" selection-end="986" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="1044">
+            <state line="47" column="8" selection-start="1581" selection-end="1581" vertical-scroll-proportion="0.8327402" vertical-offset="378" max-vertical-offset="1044">
               <folding />
             </state>
           </provider>
@@ -63,10 +63,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="contact.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/spree/home/contact.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="105" selection-start="2244" selection-end="2244" vertical-scroll-proportion="0.5955056" vertical-offset="672" max-vertical-offset="1206">
+            <state line="61" column="6" selection-start="2365" selection-end="2365" vertical-scroll-proportion="-15.777778" vertical-offset="672" max-vertical-offset="1206">
               <folding>
                 <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
               </folding>
@@ -145,8 +145,8 @@
         <option value="$PROJECT_DIR$/app/controllers/spree/contact_mailer_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/spree/contact_mailer/contact_email.html.erb" />
         <option value="$PROJECT_DIR$/app/views/spree/messages/new.html.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/spree/messages_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/spree/home/contact.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/spree/messages_controller.rb" />
       </list>
     </option>
   </component>
@@ -703,7 +703,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16782407" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16666667" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1100,10 +1100,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/spree/messages_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/spree/home/contact.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="168" selection-start="986" selection-end="986" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="1044">
-          <folding />
+        <state line="61" column="6" selection-start="2365" selection-end="2365" vertical-scroll-proportion="-15.777778" vertical-offset="672" max-vertical-offset="1206">
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1114,12 +1116,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/home/contact.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/spree/messages_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="105" selection-start="2244" selection-end="2244" vertical-scroll-proportion="0.5955056" vertical-offset="672" max-vertical-offset="1206">
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
-          </folding>
+        <state line="47" column="8" selection-start="1581" selection-end="1581" vertical-scroll-proportion="0.8327402" vertical-offset="378" max-vertical-offset="1044">
+          <folding />
         </state>
       </provider>
     </entry>

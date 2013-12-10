@@ -32,7 +32,7 @@ class Spree::MessagesController < Spree::StoreController
   def create
     @message = Spree::Message.new(params[:message])
 
-    if @message.valid? and verify_recaptcha(:private_key => '6LdJkesSAAAAAJ2jnla3m31yN-FzgvONRyWj3pBn', :model => @message, :message => "Oh! It's error with reCAPTCHA!")
+    if @message.valid? and verify_recaptcha(:private_key => '6LdJkesSAAAAAJ2jnla3m31yN-FzgvONRyWj3pBn', :message => "Oh! It's error with reCAPTCHA!")
       #@dane = {:email => "adrian.toczydlowski@gmail.com", :from_address => @message.email,
       #         :subject => @message.content}
 
