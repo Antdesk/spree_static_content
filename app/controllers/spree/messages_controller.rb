@@ -35,7 +35,7 @@ class Spree::MessagesController < Spree::StoreController
     if @message.valid?
       flash[:notice] = 'Wiadomosc wyslana! Dziekuje za poinformowanie nas.'
       @dane = {:email => "adrian.toczydlowski@gmail.com", :from_address => @message.email, :subject => @message.content}
-      render :json => dane.email and return
+      render :json => @dane and return
       if ActionMailer::Base.mail(to: @dane.email, from: @dane.from_address, subject: @dane.subject).deliver
         flash[:success] = Spree.t('sukces22')
       end
