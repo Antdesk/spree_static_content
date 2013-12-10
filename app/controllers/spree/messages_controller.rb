@@ -31,6 +31,7 @@ class Spree::MessagesController < Spree::StoreController
 
   def create
     @message = Spree::Message.new(params[:message])
+    render :json => @message and return
     if @message.valid?
       flash[:notice] = 'Wiadomosc wyslana! Dziekuje za poinformowanie nas.'
       @dane = {:email => "adrian.toczydlowski@gmail.com", :from_address => @message.email, :subject => @message.content}
