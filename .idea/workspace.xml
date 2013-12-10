@@ -26,7 +26,7 @@
       <file leaf-file-name="messages_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/spree/messages_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="40" selection-start="1212" selection-end="1212" vertical-scroll-proportion="0.7112299" vertical-offset="303" max-vertical-offset="1044">
+            <state line="45" column="9" selection-start="1419" selection-end="1419" vertical-scroll-proportion="0.9037433" vertical-offset="303" max-vertical-offset="1044">
               <folding />
             </state>
           </provider>
@@ -1065,7 +1065,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/spree/messages_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="40" selection-start="1212" selection-end="1212" vertical-scroll-proportion="0.7112299" vertical-offset="303" max-vertical-offset="1044">
+        <state line="45" column="9" selection-start="1419" selection-end="1419" vertical-scroll-proportion="0.9037433" vertical-offset="303" max-vertical-offset="1044">
           <folding />
         </state>
       </provider>
