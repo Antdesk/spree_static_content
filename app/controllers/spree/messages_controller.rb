@@ -40,10 +40,9 @@ class Spree::MessagesController < Spree::StoreController
           redirect_to root_url and return
         end
       else
-        render :action => 'new'  
+        render :action => 'new'
       end
     else
-      render :json => @message and return
       render :action => 'new'
     end
   end
