@@ -32,12 +32,16 @@ class Spree::MessagesController < Spree::StoreController
   def create
     @message = Spree::Message.new(params[:message])
 
-    if @message.valid? and verify_recaptcha(:model => @message, :private_key => '6LdJkesSAAAAAJ2jnla3m31yN-FzgvONRyWj3pBn', :message => "Oh! It's error with reCAPTCHA!")
-      if Spree::ContactMailer.contact_email(@message).deliver
-        flash[:notice] = 'Wiadomosc wyslana! Dziekuje za poinformowanie nas.'
-        redirect_to root_url and return
+    if @message.valid?
+      if verify_recaptcha(:model => @message, :private_key => '6LdJkesSAAAAAJ2jnla3m31yN-FzgvONRyWj3pBn',
+                          :message => "Oh! It's error with reCAPTCHA!") and @message.save
+        if Spree::ContactMailer.contact_email(@message).deliver
+          flash[:notice] = 'Wiadomosc wyslana! Dziekuje za poinformowanie nas.'
+          redirect_to root_url and return
+        end
+      else
+        render :action => 'new'  
       end
-      render :json => "fail" and return
     else
       render :json => @message and return
       render :action => 'new'
