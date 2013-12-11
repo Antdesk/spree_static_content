@@ -32,14 +32,7 @@ class Spree::MessagesController < Spree::StoreController
   def create
     @message = Spree::Message.new(params[:message])
 
-    if @message.valid? and verify_recaptcha(:private_key => '6LdJkesSAAAAAJ2jnla3m31yN-FzgvONRyWj3pBn', :message => "Oh! It's error with reCAPTCHA!")
-      #@dane = {:email => "adrian.toczydlowski@gmail.com", :from_address => @message.email,
-      #         :subject => @message.content}
-
-      #if ActionMailer::Base.mail(to: "adrian.toczydlowski@gmail.com", from: "adrian.toczydlowski@gmail.com", subject: "ddasd").deliver
-      #  render :json => @dane and return
-      #  flash[:success] = Spree.t('sukces22')
-      #end
+    if @message.valid? and verify_recaptcha(:model => @message, :private_key => '6LdJkesSAAAAAJ2jnla3m31yN-FzgvONRyWj3pBn', :message => "Oh! It's error with reCAPTCHA!")
       if Spree::ContactMailer.contact_email(@message).deliver
         flash[:notice] = 'Wiadomosc wyslana! Dziekuje za poinformowanie nas.'
         redirect_to root_url and return
