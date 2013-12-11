@@ -39,6 +39,7 @@ class Spree::MessagesController < Spree::StoreController
       end
       render :json => "fail" and return
     else
+      render :json => @message and return
       render :action => 'new'
     end
   end
