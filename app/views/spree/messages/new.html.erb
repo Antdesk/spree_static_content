@@ -34,7 +34,12 @@
       Vi ska försöka svara på alla inkomna frågor inom 24 timmar.
       <br>   <br>
       <% 'Kontakt' %>
-
+      <script type="text/javascript">
+          var RecaptchaOptions = {
+              theme : 'white',
+              lang: 'en',
+          };
+      </script>
       <%= form_for @message do |f| %>
           <%= f.error_messages %>
 
