@@ -1,3 +1,4 @@
+# coding: utf-8
 class Spree::MessagesController < Spree::StoreController
 
   before_filter :check_fields, :only => :create
