@@ -34,12 +34,6 @@
       Vi ska försöka svara på alla inkomna frågor inom 24 timmar.
         <br>   <br>
       <% 'Kontakt' %>
-  <script type="text/javascript">
-      var RecaptchaOptions = {
-          theme : 'white',
-          lang: 'en',
-      };
-  </script>
   <%= form_for @message do |f| %>
       <%= f.error_messages %>
 
@@ -58,7 +52,7 @@
       <%= f.text_field :title, :title => '*Amne', :class => 'defaultText', :style => 'width: 623px' %> </br></br>
 
       <%= f.text_area :content, :title => '*Meddelande', :class => 'defaultText', :style => 'width: 623px; height:100px;' %> </br></br>
-      <%= recaptcha_tags(:ajax => true, :public_key => '6LdJkesSAAAAAJERh9InwG6CfhGvkXFFC6ioR7ue') %>
+      <%= recaptcha_tags(:ajax => true, :display => {:theme => 'white', :lang => 'en'}, :public_key => '6LdJkesSAAAAAJERh9InwG6CfhGvkXFFC6ioR7ue') %>
       <div style="float:right; margin-right: 15px;"><%= f.submit 'Send' %></div>
 
   <% end %>
