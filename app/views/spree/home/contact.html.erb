@@ -52,7 +52,7 @@
       <%= f.text_field :title, :title => '*Amne', :class => 'defaultText', :style => 'width: 623px' %> </br></br>
 
       <%= f.text_area :content, :title => '*Meddelande', :class => 'defaultText', :style => 'width: 623px; height:100px;' %> </br></br>
-      <%= recaptcha_tags(:ajax => true, :display => {:theme => 'white', :lang => 'en'}, :public_key => '6LdJkesSAAAAAJERh9InwG6CfhGvkXFFC6ioR7ue') %>
+      <%= recaptcha_tags(:ajax => true, :display => {:theme => 'white', :lang => 'sv'}, :public_key => '6LdJkesSAAAAAJERh9InwG6CfhGvkXFFC6ioR7ue') %>
       <div style="float:right; margin-right: 15px;"><%= f.submit 'Send' %></div>
 
   <% end %>

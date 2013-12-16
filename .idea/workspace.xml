@@ -54,25 +54,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/spree/messages/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="43" selection-start="2217" selection-end="2217" vertical-scroll-proportion="0.5947467" vertical-offset="673" max-vertical-offset="1206">
+            <state line="55" column="88" selection-start="2262" selection-end="2262" vertical-scroll-proportion="-12.666667" vertical-offset="648" max-vertical-offset="1206">
               <folding>
-                <marker date="1387205795283" expanded="true" signature="353:2455" placeholder="..." />
-                <marker date="1387205795283" expanded="true" signature="421:2448" placeholder="..." />
-                <marker date="1387205795283" expanded="true" signature="1417:1631" placeholder="..." />
-                <marker date="1387205795283" expanded="true" signature="1676:1913" placeholder="..." />
-                <marker date="1387205795283" expanded="false" signature="2350:2382" placeholder="..." />
+                <marker date="1387206347651" expanded="true" signature="353:2455" placeholder="..." />
+                <marker date="1387206347651" expanded="true" signature="421:2448" placeholder="..." />
+                <marker date="1387206347651" expanded="true" signature="1417:1631" placeholder="..." />
+                <marker date="1387206347651" expanded="true" signature="1676:1913" placeholder="..." />
+                <marker date="1387206347651" expanded="false" signature="2350:2382" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="contact.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/spree/home/contact.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="38" selection-start="2176" selection-end="2224" vertical-scroll-proportion="-11.740741" vertical-offset="655" max-vertical-offset="1188">
+            <state line="54" column="84" selection-start="2222" selection-end="2222" vertical-scroll-proportion="0.5947467" vertical-offset="655" max-vertical-offset="1188">
               <folding />
             </state>
           </provider>
@@ -149,8 +149,8 @@
         <option value="$PROJECT_DIR$/app/controllers/spree/contact_mailer_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/spree/contact_mailer/contact_email.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/spree/messages_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/spree/home/contact.html.erb" />
         <option value="$PROJECT_DIR$/app/views/spree/messages/new.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/spree/home/contact.html.erb" />
       </list>
     </option>
   </component>
@@ -796,11 +796,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="8" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="1134">
           <folding>
-            <marker date="1387205795283" expanded="true" signature="353:2455" placeholder="..." />
-            <marker date="1387205795283" expanded="true" signature="421:2448" placeholder="..." />
-            <marker date="1387205795283" expanded="true" signature="1417:1631" placeholder="..." />
-            <marker date="1387205795283" expanded="true" signature="1676:1913" placeholder="..." />
-            <marker date="1387205795283" expanded="false" signature="2350:2382" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="353:2455" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="421:2448" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="1417:1631" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="1676:1913" placeholder="..." />
+            <marker date="1387206347651" expanded="false" signature="2350:2382" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -866,11 +866,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="8" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="1134">
           <folding>
-            <marker date="1387205795283" expanded="true" signature="353:2455" placeholder="..." />
-            <marker date="1387205795283" expanded="true" signature="421:2448" placeholder="..." />
-            <marker date="1387205795283" expanded="true" signature="1417:1631" placeholder="..." />
-            <marker date="1387205795283" expanded="true" signature="1676:1913" placeholder="..." />
-            <marker date="1387205795283" expanded="false" signature="2350:2382" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="353:2455" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="421:2448" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="1417:1631" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="1676:1913" placeholder="..." />
+            <marker date="1387206347651" expanded="false" signature="2350:2382" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -936,11 +936,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="13" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1116">
           <folding>
-            <marker date="1387205795283" expanded="true" signature="353:2455" placeholder="..." />
-            <marker date="1387205795283" expanded="true" signature="421:2448" placeholder="..." />
-            <marker date="1387205795283" expanded="true" signature="1417:1631" placeholder="..." />
-            <marker date="1387205795283" expanded="true" signature="1676:1913" placeholder="..." />
-            <marker date="1387205795283" expanded="false" signature="2350:2382" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="353:2455" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="421:2448" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="1417:1631" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="1676:1913" placeholder="..." />
+            <marker date="1387206347651" expanded="false" signature="2350:2382" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1069,13 +1069,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/home/contact.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="38" selection-start="2176" selection-end="2224" vertical-scroll-proportion="-11.740741" vertical-offset="655" max-vertical-offset="1188">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/spree/contact_mailer/contact_email.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="12" selection-start="412" selection-end="412" vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="450">
@@ -1085,14 +1078,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/spree/messages/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="43" selection-start="2217" selection-end="2217" vertical-scroll-proportion="0.5947467" vertical-offset="673" max-vertical-offset="1206">
+        <state line="55" column="88" selection-start="2262" selection-end="2262" vertical-scroll-proportion="-12.666667" vertical-offset="648" max-vertical-offset="1206">
           <folding>
-            <marker date="1387205795283" expanded="true" signature="353:2455" placeholder="..." />
-            <marker date="1387205795283" expanded="true" signature="421:2448" placeholder="..." />
-            <marker date="1387205795283" expanded="true" signature="1417:1631" placeholder="..." />
-            <marker date="1387205795283" expanded="true" signature="1676:1913" placeholder="..." />
-            <marker date="1387205795283" expanded="false" signature="2350:2382" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="353:2455" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="421:2448" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="1417:1631" placeholder="..." />
+            <marker date="1387206347651" expanded="true" signature="1676:1913" placeholder="..." />
+            <marker date="1387206347651" expanded="false" signature="2350:2382" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/home/contact.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="84" selection-start="2222" selection-end="2222" vertical-scroll-proportion="0.5947467" vertical-offset="655" max-vertical-offset="1188">
+          <folding />
         </state>
       </provider>
     </entry>
