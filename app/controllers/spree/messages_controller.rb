@@ -34,7 +34,7 @@ class Spree::MessagesController < Spree::StoreController
 
     if @message.valid?
       if verify_recaptcha(:model => @message, :private_key => '6LdJkesSAAAAAJ2jnla3m31yN-FzgvONRyWj3pBn',
-                          :message => "Oh! It's error with reCAPTCHA!") and @message.save
+                          :message => "Oh! It's error with reCAPTCHA!") 
         if Spree::ContactMailer.contact_email(@message).deliver
           flash[:notice] = 'Wiadomosc wyslana! Dziekuje za poinformowanie nas.'
           redirect_to root_url and return
@@ -46,5 +46,7 @@ class Spree::MessagesController < Spree::StoreController
       render :action => 'new'
     end
   end
+
+
 
 end

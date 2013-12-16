@@ -18,4 +18,8 @@ class Spree::Message
   def persisted?
     false
   end
+
+  def save
+    # code here
+  end
 end
