@@ -1,5 +1,5 @@
 class Spree::ContactMailer < ActionMailer::Base
-  default to: "adrian.toczydlowski@gmail.com"
+  default to: "office@lycolife.se"
 
   def contact_email(user)
     @user = user
