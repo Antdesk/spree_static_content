@@ -62,7 +62,7 @@
       <file leaf-file-name="sv.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/locales/sv.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="0" selection-start="1253" selection-end="1253" vertical-scroll-proportion="0.93639576" vertical-offset="352" max-vertical-offset="990">
+            <state line="4" column="17" selection-start="52" selection-end="52" vertical-scroll-proportion="0.12720849" vertical-offset="0" max-vertical-offset="990">
               <folding />
             </state>
           </provider>
@@ -1087,7 +1087,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/locales/sv.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="1253" selection-end="1253" vertical-scroll-proportion="0.93639576" vertical-offset="352" max-vertical-offset="990">
+        <state line="4" column="17" selection-start="52" selection-end="52" vertical-scroll-proportion="0.12720849" vertical-offset="0" max-vertical-offset="990">
           <folding />
         </state>
       </provider>
