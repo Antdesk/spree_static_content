@@ -1,19 +1,19 @@
 <div class="row">
 
     <%= f.field_container :title do %>
-        <%= f.label :title, Spree.t("spree.static_content.title") %> <span class="required">*</span><br />
+        <%= f.label :title, Spree.t("static_content.title") %> <span class="required">*</span><br />
         <%= f.text_field :title, :class => 'fullwidth title' %>
         <%= f.error_message_on :title %>
     <% end %>
 
     <%= f.field_container :slug do %>
-        <%= f.label :slug, Spree.t("spree.static_content.slug") %>  <span class="required">*</span><br />
+        <%= f.label :slug, Spree.t("static_content.slug") %>  <span class="required">*</span><br />
         <%= f.text_field :slug %>
         <%= f.error_message_on :slug %>
     <% end %>
 
     <%= f.field_container :body do %>
-        <%= f.label :body, Spree.t("spree.static_content.body") %><span class="required">*</span><br /> <br />
+        <%= f.label :body, Spree.t("static_content.body") %><span class="required">*</span><br /> <br />
         <%= f.text_area :body, {:class => 'fullwidth'} %>
         <%= f.error_message_on :body %>
     <% end %>
@@ -21,12 +21,12 @@
 
   <div class="omega one columns">
     <%= f.field_container :position do %>
-        <%= f.label :position, Spree.t("spree.static_content.position") %><br />
+        <%= f.label :position, Spree.t("static_content.position") %><br />
         <%= f.number_field :position, :min => 0 %>
     <% end %>
 
     <ul id="static_page_options">
-      <%= f.label :visible, Spree.t("spree.static_content.visible") %>
+      <%= f.label :visible, Spree.t("static_content.visible") %>
       <%= f.check_box :visible %>
     </ul>
 
