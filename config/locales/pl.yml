@@ -6,7 +6,7 @@ pl:
         static_pages: Strony statyczne
         static_pages_desc: Zarządzaj stronami statycznymi.
         title: Tytuł
-        slug: Skrót
+        slug: Link
         body: Zawartość
         new_page: Nowa strona
         editing_page: Edycja strony
