@@ -98,7 +98,7 @@
       <file leaf-file-name="showoffer.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/showoffer.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="10" selection-start="89" selection-end="89" vertical-scroll-proportion="0.07692308" vertical-offset="0" max-vertical-offset="468">
+            <state line="10" column="12" selection-start="319" selection-end="319" vertical-scroll-proportion="0.37422037" vertical-offset="0" max-vertical-offset="481">
               <folding />
             </state>
           </provider>
@@ -1059,7 +1059,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/spree/static_content/showoffer.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="10" selection-start="89" selection-end="89" vertical-scroll-proportion="0.07692308" vertical-offset="0" max-vertical-offset="468">
+        <state line="10" column="12" selection-start="319" selection-end="319" vertical-scroll-proportion="0.37422037" vertical-offset="0" max-vertical-offset="481">
           <folding />
         </state>
       </provider>
